@@ -3,7 +3,7 @@
 <Packages>
   <WinReducerEX>110</WinReducerEX>
   <Version>v3.9.8.0</Version>
-  <Date>7/15/2025 4:51:00 AM</Date>
+  <Date>7/16/2025 5:24:10 AM</Date>
   <Components>
     <Element Category="Appearance" Name="Activate Desktop Context Menu" Selected="true" Value="" />
     <Element Category="Appearance" Name="Safe Mode" Selected="true" Value="Safe Mode" />
@@ -62,16 +62,16 @@
     <Element Category="Features" Name="Printing - LPD Print Service" Selected="false" Value="" />
     <Element Category="Features" Name="Printing - Internet Printing" Selected="false" Value="" />
     <Element Category="Features" Name="Printing - Fax and Scan Services" Selected="false" Value="" />
-    <Element Category="Features" Name="Remote Access Connection" Selected="true" Value="3" />
+    <Element Category="Features" Name="Remote Access Connection" Selected="false" Value="" />
     <Element Category="Features" Name="Remote Differential Compression API" Selected="true" Value="3" />
     <Element Category="Features" Name="Simple Network Management Protocol (SNMP)" Selected="false" Value="" />
     <Element Category="Features" Name="Simple TCP" Selected="false" Value="" />
-    <Element Category="Features" Name="SMB1 Protocol" Selected="true" Value="3" />
+    <Element Category="Features" Name="SMB1 Protocol" Selected="false" Value="" />
     <Element Category="Features" Name="Tagged Image File Format IFilter (TIFF iFilter)" Selected="true" Value="3" />
     <Element Category="Features" Name="Telnet Client and Server" Selected="true" Value="3" />
     <Element Category="Features" Name="Trivial File Transfer Protocol (TFTP)" Selected="true" Value="3" />
     <Element Category="Features" Name="Windows Defender Application Guard" Selected="true" Value="3" />
-    <Element Category="Features" Name="Windows Identity Foundation 3.5" Selected="true" Value="3" />
+    <Element Category="Features" Name="Windows Identity Foundation 3.5" Selected="false" Value="" />
     <Element Category="Features" Name="Windows Media Player" Selected="true" Value="3" />
     <Element Category="Features" Name="Windows PowerShell" Selected="false" Value="" />
     <Element Category="Features" Name="Windows Sandbox" Selected="true" Value="3" />
@@ -110,8 +110,8 @@
     <Element Category="Remove - Accessories" Name="Administrative Tools (Performance Monitor) Shortcut" Selected="true" />
     <Element Category="Remove - Accessories" Name="Administrative Tools (Print Management)" Selected="true" />
     <Element Category="Remove - Accessories" Name="Administrative Tools (Print Management) Shortcut" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Administrative Tools (Registry Editor)" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Administrative Tools (Registry Editor) Shortcut" Selected="true" />
+    <Element Category="Remove - Accessories" Name="Administrative Tools (Registry Editor)" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Administrative Tools (Registry Editor) Shortcut" Selected="false" />
     <Element Category="Remove - Accessories" Name="Administrative Tools (Resource Monitor)" Selected="true" />
     <Element Category="Remove - Accessories" Name="Administrative Tools (Resource Monitor) Shortcut" Selected="true" />
     <Element Category="Remove - Accessories" Name="Administrative Tools (Security Configuration Management)" Selected="true" />
@@ -122,8 +122,8 @@
     <Element Category="Remove - Accessories" Name="Administrative Tools (Services For NFS) Shortcut" Selected="true" />
     <Element Category="Remove - Accessories" Name="Administrative Tools (System Configuration)" Selected="false" />
     <Element Category="Remove - Accessories" Name="Administrative Tools (System Configuration) Shortcut" Selected="false" />
-    <Element Category="Remove - Accessories" Name="Administrative Tools (Task Scheduler)" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Administrative Tools (Task Scheduler) Shortcut" Selected="true" />
+    <Element Category="Remove - Accessories" Name="Administrative Tools (Task Scheduler)" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Administrative Tools (Task Scheduler) Shortcut" Selected="false" />
     <Element Category="Remove - Accessories" Name="Administrative Tools (TPM Management)" Selected="true" />
     <Element Category="Remove - Accessories" Name="Administrative Tools (User Accounts)" Selected="false" />
     <Element Category="Remove - Accessories" Name="Administrative Tools (WMI Control)" Selected="true" />
@@ -178,8 +178,8 @@
     <Element Category="Remove - Accessories" Name="Help (HTML)" Selected="true" />
     <Element Category="Remove - Accessories" Name="Imapi" Selected="false" />
     <Element Category="Remove - Accessories" Name="Input Method Editor" Selected="false" />
-    <Element Category="Remove - Accessories" Name="Machine Learning" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Natural Languages" Selected="true" />
+    <Element Category="Remove - Accessories" Name="Machine Learning" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Natural Languages" Selected="false" />
     <Element Category="Remove - Accessories" Name="Night Light" Selected="false" />
     <Element Category="Remove - Accessories" Name="Notepad" Selected="false" />
     <Element Category="Remove - Accessories" Name="Open DataBase Connectivity (ODBC)" Selected="false" />
@@ -193,12 +193,12 @@
     <Element Category="Remove - Accessories" Name="Screen Magnifier" Selected="true" />
     <Element Category="Remove - Accessories" Name="Screen Reader" Selected="true" />
     <Element Category="Remove - Accessories" Name="Set Program Access and Defaults" Selected="false" />
-    <Element Category="Remove - Accessories" Name="Snipping Tool" Selected="true" />
+    <Element Category="Remove - Accessories" Name="Snipping Tool" Selected="false" />
     <Element Category="Remove - Accessories" Name="Spell Checking" Selected="true" />
     <Element Category="Remove - Accessories" Name="Steps Recorder" Selected="true" />
     <Element Category="Remove - Accessories" Name="System Information Tool" Selected="true" />
     <Element Category="Remove - Accessories" Name="System Reset Platform" Selected="true" />
-    <Element Category="Remove - Accessories" Name="System Restore" Selected="true" />
+    <Element Category="Remove - Accessories" Name="System Restore" Selected="false" />
     <Element Category="Remove - Accessories" Name="System Rollback your PC" Selected="true" />
     <Element Category="Remove - Accessories" Name="Tablet PC (Engine)" Selected="true" />
     <Element Category="Remove - Accessories" Name="Tablet PC (Flick Learning Wizard)" Selected="true" />
@@ -244,8 +244,8 @@
     <Element Category="Remove - Control Panels" Name="Control Panel - Backup and Restore (Windows 7) (Files)" Selected="true" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Color Management" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Color Management (Files)" Selected="false" />
-    <Element Category="Remove - Control Panels" Name="Control Panel - Credential Manager" Selected="true" />
-    <Element Category="Remove - Control Panels" Name="Control Panel - Credential Manager (Files)" Selected="true" />
+    <Element Category="Remove - Control Panels" Name="Control Panel - Credential Manager" Selected="false" />
+    <Element Category="Remove - Control Panels" Name="Control Panel - Credential Manager (Files)" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Date and Time" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Device Center" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Device Center (Files)" Selected="false" />
@@ -292,7 +292,7 @@
     <Element Category="Remove - Control Panels" Name="Control Panel - Region and Language" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Region and Language (Files)" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Scanner and Camera" Selected="false" />
-    <Element Category="Remove - Control Panels" Name="Control Panel - Secure Startup" Selected="true" />
+    <Element Category="Remove - Control Panels" Name="Control Panel - Secure Startup" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Set User Defaults" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Sound" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Sound (Files)" Selected="false" />
@@ -463,11 +463,11 @@
     <Element Category="Remove - Drivers" Name="Support - SCSI" Selected="false" />
     <Element Category="Remove - Drivers" Name="Support - Scanner" Selected="false" />
     <Element Category="Remove - Drivers" Name="Support - Secure Digital Card" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Support - Sensors Device" Selected="true" />
-    <Element Category="Remove - Drivers" Name="Support - Serial IO" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Support - Sensors Device" Selected="false" />
+    <Element Category="Remove - Drivers" Name="Support - Serial IO" Selected="false" />
     <Element Category="Remove - Drivers" Name="Support - SmartCard" Selected="false" />
     <Element Category="Remove - Drivers" Name="Support - SmartCard (Phone)" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Support - Stripe Reader" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Support - Stripe Reader" Selected="false" />
     <Element Category="Remove - Drivers" Name="Support - Tape Drive" Selected="false" />
     <Element Category="Remove - Drivers" Name="Support - Wireless Local Area Network (WLAN)" Selected="false" />
     <Element Category="Remove - Drivers" Name="Support - Wireless Wide Area Network (WWAN)" Selected="false" />
@@ -475,7 +475,7 @@
     <Element Category="Remove - Drivers" Name="USB Audio" Selected="false" />
     <Element Category="Remove - Drivers" Name="USB Audio 2.0" Selected="false" />
     <Element Category="Remove - Drivers" Name="USB Easy Transfer Cable" Selected="false" />
-    <Element Category="Remove - Drivers" Name="USB Infared CIR" Selected="true" />
+    <Element Category="Remove - Drivers" Name="USB Infared CIR" Selected="false" />
     <Element Category="Remove - Drivers" Name="USB Hub (EHCI, UHCI, OHCI)" Selected="false" />
     <Element Category="Remove - Drivers" Name="USB Hub (Type-C)" Selected="false" />
     <Element Category="Remove - Drivers" Name="USB Hub (xHCI)" Selected="false" />
@@ -725,9 +725,9 @@
     <Element Category="Remove - Modern UI Apps" Name="Bing News" Selected="true" />
     <Element Category="Remove - Modern UI Apps" Name="Bing Weather" Selected="true" />
     <Element Category="Remove - Modern UI Apps" Name="Bio Enrollment" Selected="true" />
-    <Element Category="Remove - Modern UI Apps" Name="Camera" Selected="true" />
-    <Element Category="Remove - Modern UI Apps" Name="Camera Barcode Scanner" Selected="true" />
-    <Element Category="Remove - Modern UI Apps" Name="Capture Picker" Selected="true" />
+    <Element Category="Remove - Modern UI Apps" Name="Camera" Selected="false" />
+    <Element Category="Remove - Modern UI Apps" Name="Camera Barcode Scanner" Selected="false" />
+    <Element Category="Remove - Modern UI Apps" Name="Capture Picker" Selected="false" />
     <Element Category="Remove - Modern UI Apps" Name="Communication Applications" Selected="true" />
     <Element Category="Remove - Modern UI Apps" Name="Content Delivery Manager" Selected="true" />
     <Element Category="Remove - Modern UI Apps" Name="Cortana" Selected="true" />
@@ -771,7 +771,7 @@
     <Element Category="Remove - Modern UI Apps" Name="Office Hub" Selected="true" />
     <Element Category="Remove - Modern UI Apps" Name="One Connect" Selected="true" />
     <Element Category="Remove - Modern UI Apps" Name="Parental Controls" Selected="true" />
-    <Element Category="Remove - Modern UI Apps" Name="PDF Support" Selected="true" />
+    <Element Category="Remove - Modern UI Apps" Name="PDF Support" Selected="false" />
     <Element Category="Remove - Modern UI Apps" Name="People" Selected="true" />
     <Element Category="Remove - Modern UI Apps" Name="Phone Call" Selected="true" />
     <Element Category="Remove - Modern UI Apps" Name="Power Automate Desktop" Selected="true" />
@@ -797,7 +797,7 @@
     <Element Category="Remove - Modern UI Apps" Name="Windows Store" Selected="false" />
     <Element Category="Remove - Modern UI Apps" Name="Windows Store (Purchase App)" Selected="false" />
     <Element Category="Remove - Modern UI Apps" Name="Windows Terminal" Selected="true" />
-    <Element Category="Remove - Modern UI Apps" Name="Xbox LIVE Games" Selected="true" />
+    <Element Category="Remove - Modern UI Apps" Name="Xbox LIVE Games" Selected="false" />
     <Element Category="Remove - Modern UI Apps" Name="Xbox LIVE Games (Game Overlay)" Selected="false" />
     <Element Category="Remove - Modern UI Apps" Name="Xbox LIVE Games (Identity Provider)" Selected="false" />
     <Element Category="Remove - Modern UI Apps" Name="Xbox LIVE Games (In-Game Experience)" Selected="false" />
@@ -817,19 +817,19 @@
     <Element Category="Remove - Multimedia" Name="Codec - 3D Audio (Decoder)" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Codec - 3D Audio (Dolby Headphones Encoder)" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Codec - AAC (Decoder)" Selected="false" />
-    <Element Category="Remove - Multimedia" Name="Codec - AAC (Encoder)" Selected="true" />
-    <Element Category="Remove - Multimedia" Name="Codec - ADPCM (Decoder)" Selected="true" />
+    <Element Category="Remove - Multimedia" Name="Codec - AAC (Encoder)" Selected="false" />
+    <Element Category="Remove - Multimedia" Name="Codec - ADPCM (Decoder)" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Codec - ADPCM (Encoder)" Selected="true" />
     <Element Category="Remove - Multimedia" Name="Codec - Alac (Decoder)" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Codec - Alac (Encoder)" Selected="true" />
     <Element Category="Remove - Multimedia" Name="Codec - AMR (Container)" Selected="true" />
     <Element Category="Remove - Multimedia" Name="Codec - AMR (Decoder)" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Codec - AMR (Encoder)" Selected="true" />
-    <Element Category="Remove - Multimedia" Name="Codec - ASF (Container)" Selected="true" />
+    <Element Category="Remove - Multimedia" Name="Codec - ASF (Container)" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Codec - Camera" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Codec - Cinepak" Selected="true" />
     <Element Category="Remove - Multimedia" Name="Codec - Dolby ATMOS (Encoder)" Selected="false" />
-    <Element Category="Remove - Multimedia" Name="Codec - Dolby Digital (Decoder)" Selected="false" />
+    <Element Category="Remove - Multimedia" Name="Codec - Dolby Digital (Decoder)" Selected="true" />
     <Element Category="Remove - Multimedia" Name="Codec - Dolby Digital (Encoder)" Selected="true" />
     <Element Category="Remove - Multimedia" Name="Codec - DV (Decoder)" Selected="true" />
     <Element Category="Remove - Multimedia" Name="Codec - DV (Encoder)" Selected="true" />
@@ -850,7 +850,7 @@
     <Element Category="Remove - Multimedia" Name="Codec - MP4 (Container)" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Codec - MPEG2 Audio and Video (Container)" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Codec - MPEG2 Audio and Video (Encoder)" Selected="true" />
-    <Element Category="Remove - Multimedia" Name="Codec - MPEG2 Audio (Decoder)" Selected="true" />
+    <Element Category="Remove - Multimedia" Name="Codec - MPEG2 Audio (Decoder)" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Codec - MPEG2 Video (Decoder)" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Codec - MPEG2 Video (Decoder for Digital TV)" Selected="true" />
     <Element Category="Remove - Multimedia" Name="Codec - Opus (Decoder)" Selected="true" />
@@ -879,7 +879,7 @@
     <Element Category="Remove - Multimedia" Name="Force Feedback" Selected="true" />
     <Element Category="Remove - Multimedia" Name="Game Bar" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Game Bar (DVR)" Selected="false" />
-    <Element Category="Remove - Multimedia" Name="Game Chat" Selected="false" />
+    <Element Category="Remove - Multimedia" Name="Game Chat" Selected="true" />
     <Element Category="Remove - Multimedia" Name="Game Mode" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Games Explorer" Selected="true" />
     <Element Category="Remove - Multimedia" Name="Gracenote (GNSDK)" Selected="true" />
@@ -971,7 +971,7 @@
     <Element Category="Remove - Network" Name="Shared PC" Selected="true" />
     <Element Category="Remove - Network" Name="Sharing (Shell Extensions)" Selected="false" />
     <Element Category="Remove - Network" Name="Smart Screen" Selected="false" />
-    <Element Category="Remove - Network" Name="SMB Client (Redirector)" Selected="true" />
+    <Element Category="Remove - Network" Name="SMB Client (Redirector)" Selected="false" />
     <Element Category="Remove - Network" Name="SQL Client" Selected="true" />
     <Element Category="Remove - Network" Name="SQL Server" Selected="true" />
     <Element Category="Remove - Network" Name="Telemetry" Selected="false" />
@@ -1044,9 +1044,9 @@
     <Element Category="Privacy" Name="Microphone - Allow access to the microphone for this device" Selected="false" />
     <Element Category="Privacy" Name="Microphone - Allow desktop apps to access your microphone" Selected="false" />
     <Element Category="Privacy" Name="Microphone - Let apps use my microphone" Selected="false" />
-    <Element Category="Privacy" Name="Notifications - Allow access to the notifications for this device" Selected="false" />
-    <Element Category="Privacy" Name="Notifications - Let apps access my notifications" Selected="true" />
-    <Element Category="Privacy" Name="Other Devices - Let apps share and sync automatic information with wireless devices" Selected="true" />
+    <Element Category="Privacy" Name="Notifications - Allow access to the notifications for this device" Selected="true" />
+    <Element Category="Privacy" Name="Notifications - Let apps access my notifications" Selected="false" />
+    <Element Category="Privacy" Name="Other Devices - Let apps share and sync automatic information with wireless devices" Selected="false" />
     <Element Category="Privacy" Name="Pictures - Allow access to the pictures library for this device" Selected="true" />
     <Element Category="Privacy" Name="Pictures - Allow apps to access pictures library" Selected="true" />
     <Element Category="Privacy" Name="Phone Calls - Allow access to phone calls for this device" Selected="true" />
@@ -1062,7 +1062,7 @@
     <Element Category="Settings" Name="Accounts - Access work or school" Selected="true" />
     <Element Category="Settings" Name="Accounts - Email and app accounts" Selected="true" />
     <Element Category="Settings" Name="Accounts - Family and other people" Selected="true" />
-    <Element Category="Settings" Name="Accounts - Sign-in options" Selected="true" />
+    <Element Category="Settings" Name="Accounts - Sign-in options" Selected="false" />
     <Element Category="Settings" Name="Accounts - Sync your settings" Selected="true" />
     <Element Category="Settings" Name="Accounts - Your info" Selected="false" />
     <Element Category="Settings" Name="Apps - Apps and features" Selected="false" />
@@ -1092,9 +1092,9 @@
     <Element Category="Settings" Name="Ease of Access - Speech" Selected="true" />
     <Element Category="Settings" Name="Ease of Access - Text Cursor" Selected="true" />
     <Element Category="Settings" Name="Extras" Selected="true" />
-    <Element Category="Settings" Name="Gaming - Broadcasting" Selected="true" />
+    <Element Category="Settings" Name="Gaming - Broadcasting" Selected="false" />
     <Element Category="Settings" Name="Gaming - Game bar" Selected="false" />
-    <Element Category="Settings" Name="Gaming - Game DVR" Selected="true" />
+    <Element Category="Settings" Name="Gaming - Game DVR" Selected="false" />
     <Element Category="Settings" Name="Gaming - Game Mode" Selected="false" />
     <Element Category="Settings" Name="Gaming - TruePlay" Selected="false" />
     <Element Category="Settings" Name="Gaming - Xbox Networking" Selected="false" />
@@ -1217,7 +1217,7 @@
     <Element Category="Tweaks" Name="Desktop - Disable JPEG Wallpaper Import Quality Reduction" Selected="true" />
     <Element Category="Tweaks" Name="Desktop - Hide Icons" Selected="false" />
     <Element Category="Tweaks" Name="Desktop - Hide Popup Help Tips" Selected="true" />
-    <Element Category="Tweaks" Name="Desktop - Remove Recycle Bin Icon" Selected="false" />
+    <Element Category="Tweaks" Name="Desktop - Remove Recycle Bin Icon" Selected="true" />
     <Element Category="Tweaks" Name="Desktop - Save User Customized Settings" Selected="false" />
     <Element Category="Tweaks" Name="Explorer - Automatically Expand to Current Folder" Selected="false" />
     <Element Category="Tweaks" Name="Explorer - Command Bar - Remove Burn" Selected="false" />
@@ -1231,8 +1231,8 @@
     <Element Category="Tweaks" Name="Explorer - Disable Thumbnails File Icons" Selected="false" />
     <Element Category="Tweaks" Name="Explorer - Disable Recently Opened Programs List" Selected="true" />
     <Element Category="Tweaks" Name="Explorer - Disable User Tracking" Selected="true" />
-    <Element Category="Tweaks" Name="Explorer - Enable Confirmation Dialog to Apply to all Current Items" Selected="true" />
-    <Element Category="Tweaks" Name="Explorer - Enable File Transfer Dialog with more Details" Selected="true" />
+    <Element Category="Tweaks" Name="Explorer - Enable Confirmation Dialog to Apply to all Current Items" Selected="false" />
+    <Element Category="Tweaks" Name="Explorer - Enable File Transfer Dialog with more Details" Selected="false" />
     <Element Category="Tweaks" Name="Explorer - Hidden Files and Folders (Show)" Selected="true" />
     <Element Category="Tweaks" Name="Explorer - Hidden System Files (Hide)" Selected="true" />
     <Element Category="Tweaks" Name="Explorer - Increase Icon Cache to 4MB" Selected="true" />
@@ -1241,7 +1241,7 @@
     <Element Category="Tweaks" Name="Explorer - Preview Pane (Show)" Selected="false" />
     <Element Category="Tweaks" Name="Explorer - PowerShell instead of Command Prompt" Selected="false" />
     <Element Category="Tweaks" Name="Explorer - Recent Document History (Delete on Exit)" Selected="false" />
-    <Element Category="Tweaks" Name="Explorer - Recent Document History (Do Not Save)" Selected="false" />
+    <Element Category="Tweaks" Name="Explorer - Recent Document History (Do Not Save)" Selected="true" />
     <Element Category="Tweaks" Name="Explorer - Reduce Scrollbar Size" Selected="true" />
     <Element Category="Tweaks" Name="Explorer - Remove Navigation Pane" Selected="false" />
     <Element Category="Tweaks" Name="Explorer - Remove 3D Objects from Navigation Pane" Selected="true" />
@@ -1298,7 +1298,7 @@
     <Element Category="Tweaks" Name="Modern UI - Apps - Edge - Show Favorites Bar" Selected="false" />
     <Element Category="Tweaks" Name="Modern UI - Apps - Edge - Show Favorites Bar (Pinned Panel)" Selected="false" />
     <Element Category="Tweaks" Name="Modern UI - Apps - Edge - Show Home Button" Selected="false" />
-    <Element Category="Tweaks" Name="Modern UI - Apps - Edge - Use Dark Theme" Selected="false" />
+    <Element Category="Tweaks" Name="Modern UI - Apps - Edge - Use Dark Theme" Selected="true" />
     <Element Category="Tweaks" Name="Modern UI - Apps - OneDrive - Disable OneDrive Integration" Selected="true" />
     <Element Category="Tweaks" Name="Modern UI - Apps - Search - Enable Enhanced Mode for Search Indexer" Selected="false" />
     <Element Category="Tweaks" Name="Modern UI - Apps - Settings - Account - Disable my sign-in info to automatically finish setting up device" Selected="false" />
@@ -1381,7 +1381,7 @@
     <Element Category="Tweaks" Name="System - CTRL+ALT+DEL Screen - Hide Task Manager" Selected="false" />
     <Element Category="Tweaks" Name="System - Block Negative DNS Entries" Selected="true" />
     <Element Category="Tweaks" Name="System - Disable Administrative Shares" Selected="true" />
-    <Element Category="Tweaks" Name="System - Disable Autocorrect Misspelled Words" Selected="true" />
+    <Element Category="Tweaks" Name="System - Disable Autocorrect Misspelled Words" Selected="false" />
     <Element Category="Tweaks" Name="System - Disable Automatic Defragmentation" Selected="true" />
     <Element Category="Tweaks" Name="System - Disable Automatic Reboot on BSOD" Selected="false" />
     <Element Category="Tweaks" Name="System - Disable Bandwidth Limit" Selected="false" />
@@ -1397,7 +1397,7 @@
     <Element Category="Tweaks" Name="System - Disable Paging Executive" Selected="false" />
     <Element Category="Tweaks" Name="System - Disable Paging File" Selected="false" />
     <Element Category="Tweaks" Name="System - Disable Paging Swap File" Selected="false" />
-    <Element Category="Tweaks" Name="System - Disable Ready Boot" Selected="true" />
+    <Element Category="Tweaks" Name="System - Disable Ready Boot" Selected="false" />
     <Element Category="Tweaks" Name="System - Disable Superfetch, Prefetcher and Boot Trace" Selected="false" />
     <Element Category="Tweaks" Name="System - Disable System Failure" Selected="true" />
     <Element Category="Tweaks" Name="System - Disable User Account Control (UAC)" Selected="false" />
@@ -1415,7 +1415,7 @@
     <Element Category="Tweaks" Name="Taskbar - Disable Notification Center" Selected="false" />
     <Element Category="Tweaks" Name="Taskbar - Disable Notifications" Selected="true" />
     <Element Category="Tweaks" Name="Taskbar - Disable Promotion of Notification Icons" Selected="true" />
-    <Element Category="Tweaks" Name="Taskbar - Disable Search Icon" Selected="true" />
+    <Element Category="Tweaks" Name="Taskbar - Disable Search Icon" Selected="false" />
     <Element Category="Tweaks" Name="Taskbar - Disable Taskbar Grouping" Selected="false" />
     <Element Category="Tweaks" Name="Taskbar - Hide Shortcuts (All Modern UI Apps)" Selected="false" />
     <Element Category="Tweaks" Name="Taskbar - Hide Shortcuts (All Modern UI Apps and Explorer)" Selected="false" />
@@ -1427,7 +1427,7 @@
     <Element Category="Tweaks" Name="Taskbar - Increase Transparency" Selected="true" />
     <Element Category="Tweaks" Name="Taskbar - Remove Language Bar" Selected="false" />
     <Element Category="Tweaks" Name="Taskbar - Remove Meet Now" Selected="true" />
-    <Element Category="Tweaks" Name="Taskbar - Show all Icons" Selected="true" />
+    <Element Category="Tweaks" Name="Taskbar - Show all Icons" Selected="false" />
     <Element Category="Tweaks" Name="Taskbar - Show Clock Seconds" Selected="false" />
     <Element Category="Tweaks" Name="Taskbar - Unlock" Selected="false" />
     <Element Category="Tweaks" Name="Taskbar - Use Small Icons" Selected="false" />
@@ -1450,17 +1450,17 @@
     <Element Category="Optimizations" Name="EXPERT - WinSXS Folder Cleanup (boot.wim)" Selected="true" />
     <Element Category="Optimizations" Name="EXPERT - WinSXS Folder Cleanup (install.wim)" Selected="true" />
     <Element Category="Optimizations" Name="EXPERT - WinSXS Folder Compression" Selected="true" Value="XPRESS4K" />
-    <Element Category="Services" Name="ActiveX Service" Selected="true" Value="5" />
+    <Element Category="Services" Name="ActiveX Service" Selected="false" Value="" />
     <Element Category="Services" Name="Agent Activation Runtime Service" Selected="false" Value="" />
-    <Element Category="Services" Name="AllJoyn Router Service" Selected="true" Value="4" />
+    <Element Category="Services" Name="AllJoyn Router Service" Selected="false" Value="" />
     <Element Category="Services" Name="App Readiness Service" Selected="false" Value="" />
     <Element Category="Services" Name="Application Layer Gateway Service" Selected="false" Value="" />
     <Element Category="Services" Name="Assigned Access Manager Service" Selected="false" Value="" />
     <Element Category="Services" Name="Auto Time Zone Updater Service" Selected="false" Value="" />
     <Element Category="Services" Name="Background Intelligent Transfer Service" Selected="false" Value="" />
-    <Element Category="Services" Name="Beep Service" Selected="true" Value="5" />
-    <Element Category="Services" Name="BitLocker Drive Encryption Service" Selected="true" Value="5" />
-    <Element Category="Services" Name="Block Level Backup Engine Service" Selected="true" Value="5" />
+    <Element Category="Services" Name="Beep Service" Selected="false" Value="" />
+    <Element Category="Services" Name="BitLocker Drive Encryption Service" Selected="false" Value="" />
+    <Element Category="Services" Name="Block Level Backup Engine Service" Selected="false" Value="" />
     <Element Category="Services" Name="Bluetooth Audio Gateway Service" Selected="false" Value="" />
     <Element Category="Services" Name="Bluetooth AVCTP Service" Selected="false" Value="" />
     <Element Category="Services" Name="Bluetooth Support Service" Selected="false" Value="" />
@@ -1491,116 +1491,116 @@
     <Element Category="Services" Name="Display Policy Service" Selected="false" Value="" />
     <Element Category="Services" Name="Distributed Link Tracking Client Service" Selected="false" Value="" />
     <Element Category="Services" Name="Distributed Transaction Coordinator Service" Selected="false" Value="" />
-    <Element Category="Services" Name="Embedded Mode Service" Selected="true" Value="5" />
-    <Element Category="Services" Name="Encrypting File System (EFS) Service" Selected="true" Value="3" />
-    <Element Category="Services" Name="Enterprise App Management Service" Selected="true" Value="3" />
+    <Element Category="Services" Name="Embedded Mode Service" Selected="false" Value="" />
+    <Element Category="Services" Name="Encrypting File System (EFS) Service" Selected="false" Value="" />
+    <Element Category="Services" Name="Enterprise App Management Service" Selected="false" Value="" />
     <Element Category="Services" Name="Extensible Authentication Protocol (Eaphost) Service" Selected="false" Value="" />
-    <Element Category="Services" Name="Fax Service" Selected="true" Value="3" />
-    <Element Category="Services" Name="File History Service" Selected="true" Value="5" />
+    <Element Category="Services" Name="Fax Service" Selected="false" Value="" />
+    <Element Category="Services" Name="File History Service" Selected="false" Value="" />
     <Element Category="Services" Name="Function Discovery Provider Host Service" Selected="false" Value="" />
     <Element Category="Services" Name="Function Discovery Resource Publication Service" Selected="false" Value="" />
-    <Element Category="Services" Name="GameDVR and Broadcast User Service" Selected="true" Value="5" />
-    <Element Category="Services" Name="Geolocation Service" Selected="true" Value="3" />
+    <Element Category="Services" Name="GameDVR and Broadcast User Service" Selected="false" Value="" />
+    <Element Category="Services" Name="Geolocation Service" Selected="false" Value="" />
     <Element Category="Services" Name="GPU Energy Driver Service" Selected="false" Value="" />
     <Element Category="Services" Name="Graphics Performance Service" Selected="false" Value="" />
     <Element Category="Services" Name="HomeGroup Listener and Provider Services" Selected="false" Value="" />
     <Element Category="Services" Name="Human Interface Device (HID) Service" Selected="false" Value="" />
-    <Element Category="Services" Name="HyperV Services" Selected="true" Value="5" />
-    <Element Category="Services" Name="Infrared Monitor Service" Selected="true" Value="3" />
+    <Element Category="Services" Name="HyperV Services" Selected="false" Value="" />
+    <Element Category="Services" Name="Infrared Monitor Service" Selected="false" Value="" />
     <Element Category="Services" Name="Internet Connection Sharing (ICS) Service" Selected="false" Value="" />
     <Element Category="Services" Name="IP Translation Configuration Service" Selected="false" Value="" />
-    <Element Category="Services" Name="KtmRm for Distributed Transaction Coordinator Service" Selected="true" Value="4" />
+    <Element Category="Services" Name="KtmRm for Distributed Transaction Coordinator Service" Selected="false" Value="" />
     <Element Category="Services" Name="Link-Layer Topology Discovery Mapper Service" Selected="false" Value="" />
     <Element Category="Services" Name="Language Experience Service" Selected="false" Value="" />
-    <Element Category="Services" Name="Messaging Service" Selected="true" Value="5" />
+    <Element Category="Services" Name="Messaging Service" Selected="false" Value="" />
     <Element Category="Services" Name="Microsoft Account Sign-in Assistant Service" Selected="false" Value="" />
     <Element Category="Services" Name="Microsoft App-V Client Service" Selected="false" Value="" />
-    <Element Category="Services" Name="Microsoft iSCSI Initiator Service" Selected="true" Value="5" />
+    <Element Category="Services" Name="Microsoft iSCSI Initiator Service" Selected="false" Value="" />
     <Element Category="Services" Name="Microsoft Passport Service" Selected="false" Value="" />
     <Element Category="Services" Name="Microsoft Passport Container Service" Selected="false" Value="" />
-    <Element Category="Services" Name="Natural Authentification Service" Selected="true" Value="5" />
-    <Element Category="Services" Name="Net Logon Service" Selected="true" Value="5" />
-    <Element Category="Services" Name="Network Connected Devices Auto-Setup Service" Selected="true" Value="3" />
+    <Element Category="Services" Name="Natural Authentification Service" Selected="false" Value="" />
+    <Element Category="Services" Name="Net Logon Service" Selected="false" Value="" />
+    <Element Category="Services" Name="Network Connected Devices Auto-Setup Service" Selected="false" Value="" />
     <Element Category="Services" Name="Network Connection Broker Service" Selected="false" Value="" />
     <Element Category="Services" Name="Network Connectivity Assistant Service" Selected="false" Value="" />
-    <Element Category="Services" Name="Offline Files Service" Selected="true" Value="5" />
-    <Element Category="Services" Name="OpenSSH Authentication Agent Service" Selected="true" Value="5" />
+    <Element Category="Services" Name="Offline Files Service" Selected="false" Value="" />
+    <Element Category="Services" Name="OpenSSH Authentication Agent Service" Selected="false" Value="" />
     <Element Category="Services" Name="Optimize Drives Service" Selected="false" Value="" />
-    <Element Category="Services" Name="Parental Controls Service" Selected="true" Value="5" />
-    <Element Category="Services" Name="Payments and NFC Manager Service" Selected="true" Value="5" />
-    <Element Category="Services" Name="Peer Name Resolution Protocol Services" Selected="true" Value="3" />
-    <Element Category="Services" Name="Phone Service" Selected="true" Value="5" />
+    <Element Category="Services" Name="Parental Controls Service" Selected="false" Value="" />
+    <Element Category="Services" Name="Payments and NFC Manager Service" Selected="false" Value="" />
+    <Element Category="Services" Name="Peer Name Resolution Protocol Services" Selected="false" Value="" />
+    <Element Category="Services" Name="Phone Service" Selected="false" Value="" />
     <Element Category="Services" Name="Portable Device Enumerator Service" Selected="false" Value="" />
     <Element Category="Services" Name="Printer Support Services" Selected="false" Value="" />
     <Element Category="Services" Name="Print Workflow Service" Selected="false" Value="" />
-    <Element Category="Services" Name="Problem Reports and Solutions Service" Selected="true" Value="5" />
-    <Element Category="Services" Name="Program Compatibility Assistant Service" Selected="true" Value="5" />
+    <Element Category="Services" Name="Problem Reports and Solutions Service" Selected="false" Value="" />
+    <Element Category="Services" Name="Program Compatibility Assistant Service" Selected="false" Value="" />
     <Element Category="Services" Name="Quality Windows Audio Video Experience Service" Selected="false" Value="" />
     <Element Category="Services" Name="Radio Management Service" Selected="false" Value="" />
-    <Element Category="Services" Name="Recommended Troubleshooting Service" Selected="true" Value="5" />
-    <Element Category="Services" Name="Remote Access Auto Connection Manager Service" Selected="true" Value="3" />
+    <Element Category="Services" Name="Recommended Troubleshooting Service" Selected="false" Value="" />
+    <Element Category="Services" Name="Remote Access Auto Connection Manager Service" Selected="false" Value="" />
     <Element Category="Services" Name="Remote Access Manager Services" Selected="false" Value="" />
-    <Element Category="Services" Name="Remote Desktop Configuration Service" Selected="true" Value="5" />
-    <Element Category="Services" Name="Remote Desktop Services" Selected="true" Value="5" />
-    <Element Category="Services" Name="Remote Desktop UserMode Port Redirector Service" Selected="true" Value="5" />
-    <Element Category="Services" Name="Remote Procedure Call (RPC) Locator" Selected="true" Value="5" />
+    <Element Category="Services" Name="Remote Desktop Configuration Service" Selected="false" Value="" />
+    <Element Category="Services" Name="Remote Desktop Services" Selected="false" Value="" />
+    <Element Category="Services" Name="Remote Desktop UserMode Port Redirector Service" Selected="false" Value="" />
+    <Element Category="Services" Name="Remote Procedure Call (RPC) Locator" Selected="false" Value="" />
     <Element Category="Services" Name="Remote Registry Service" Selected="true" Value="5" />
-    <Element Category="Services" Name="Routing and Remote Access Service" Selected="true" Value="3" />
+    <Element Category="Services" Name="Routing and Remote Access Service" Selected="false" Value="" />
     <Element Category="Services" Name="Secondary Logon Service" Selected="false" Value="" />
     <Element Category="Services" Name="Security Center Service" Selected="true" Value="5" />
-    <Element Category="Services" Name="Sensor Data Service" Selected="true" Value="3" />
-    <Element Category="Services" Name="Sensor Monitoring Service" Selected="true" Value="3" />
-    <Element Category="Services" Name="Server Service" Selected="true" Value="3" />
-    <Element Category="Services" Name="Shared PC Account Manager Service" Selected="true" Value="5" />
-    <Element Category="Services" Name="Smart Card Services" Selected="true" Value="5" />
-    <Element Category="Services" Name="SNMP Trap Service" Selected="true" Value="5" />
-    <Element Category="Services" Name="SSDP Discovery Service" Selected="true" Value="3" />
-    <Element Category="Services" Name="Secure Socket Tunneling Protocol Service" Selected="true" Value="3" />
-    <Element Category="Services" Name="Spatial Data Service" Selected="true" Value="5" />
-    <Element Category="Services" Name="Spot Verifier Service" Selected="true" Value="5" />
+    <Element Category="Services" Name="Sensor Data Service" Selected="false" Value="" />
+    <Element Category="Services" Name="Sensor Monitoring Service" Selected="false" Value="" />
+    <Element Category="Services" Name="Server Service" Selected="false" Value="" />
+    <Element Category="Services" Name="Shared PC Account Manager Service" Selected="false" Value="" />
+    <Element Category="Services" Name="Smart Card Services" Selected="false" Value="" />
+    <Element Category="Services" Name="SNMP Trap Service" Selected="false" Value="" />
+    <Element Category="Services" Name="SSDP Discovery Service" Selected="false" Value="" />
+    <Element Category="Services" Name="Secure Socket Tunneling Protocol Service" Selected="false" Value="" />
+    <Element Category="Services" Name="Spatial Data Service" Selected="false" Value="" />
+    <Element Category="Services" Name="Spot Verifier Service" Selected="false" Value="" />
     <Element Category="Services" Name="Still Image Acquisition Events Service" Selected="false" Value="" />
-    <Element Category="Services" Name="Storage Spaces Service" Selected="true" Value="5" />
+    <Element Category="Services" Name="Storage Spaces Service" Selected="false" Value="" />
     <Element Category="Services" Name="Storage Tiers Management Service" Selected="false" Value="" />
-    <Element Category="Services" Name="Superfetch Service" Selected="true" Value="2" />
+    <Element Category="Services" Name="Superfetch Service" Selected="false" Value="" />
     <Element Category="Services" Name="Sync Host Service" Selected="false" Value="" />
     <Element Category="Services" Name="System Event Notification Service" Selected="false" Value="" />
     <Element Category="Services" Name="TCP IP NetBIOS Helper Service" Selected="false" Value="" />
-    <Element Category="Services" Name="Telephony Service" Selected="true" Value="3" />
-    <Element Category="Services" Name="Touch Keyboard and Handwriting Panel Service" Selected="true" Value="4" />
+    <Element Category="Services" Name="Telephony Service" Selected="false" Value="" />
+    <Element Category="Services" Name="Touch Keyboard and Handwriting Panel Service" Selected="false" Value="" />
     <Element Category="Services" Name="Update Orchestrator Service" Selected="true" Value="3" />
-    <Element Category="Services" Name="UPnP Device Host Service" Selected="true" Value="3" />
-    <Element Category="Services" Name="User Data Access Service" Selected="true" Value="3" />
-    <Element Category="Services" Name="User Experience Virtualization Service" Selected="true" Value="5" />
+    <Element Category="Services" Name="UPnP Device Host Service" Selected="false" Value="" />
+    <Element Category="Services" Name="User Data Access Service" Selected="false" Value="" />
+    <Element Category="Services" Name="User Experience Virtualization Service" Selected="false" Value="" />
     <Element Category="Services" Name="Volume Shadow Copy Service" Selected="true" Value="5" />
-    <Element Category="Services" Name="Volumetric Audio Compositor Service" Selected="true" Value="5" />
-    <Element Category="Services" Name="Wallet Service" Selected="true" Value="5" />
+    <Element Category="Services" Name="Volumetric Audio Compositor Service" Selected="false" Value="" />
+    <Element Category="Services" Name="Wallet Service" Selected="false" Value="" />
     <Element Category="Services" Name="WAP Push Message Routing Service" Selected="false" Value="" />
     <Element Category="Services" Name="WarpJITSvc Service" Selected="false" Value="" />
-    <Element Category="Services" Name="Web Client Service" Selected="true" Value="5" />
+    <Element Category="Services" Name="Web Client Service" Selected="false" Value="" />
     <Element Category="Services" Name="Wi-Fi Direct Services Connection Manager Service" Selected="false" Value="" />
-    <Element Category="Services" Name="Windows Backup Service" Selected="true" Value="5" />
+    <Element Category="Services" Name="Windows Backup Service" Selected="false" Value="" />
     <Element Category="Services" Name="Windows Camera Frame Service" Selected="false" Value="" />
     <Element Category="Services" Name="Windows Connect Now Service" Selected="false" Value="" />
     <Element Category="Services" Name="Windows Connection Manager Service" Selected="false" Value="" />
-    <Element Category="Services" Name="Windows Container Isolation Service" Selected="true" Value="3" />
-    <Element Category="Services" Name="Windows Container Name Virtualization Service" Selected="true" Value="3" />
+    <Element Category="Services" Name="Windows Container Isolation Service" Selected="false" Value="" />
+    <Element Category="Services" Name="Windows Container Name Virtualization Service" Selected="false" Value="" />
     <Element Category="Services" Name="Windows Defender Service" Selected="true" Value="5" />
     <Element Category="Services" Name="Windows Defender Security Center Service" Selected="true" Value="5" />
     <Element Category="Services" Name="Windows Defender System Guard Service" Selected="true" Value="5" />
     <Element Category="Services" Name="Windows Error Reporting Service" Selected="true" Value="3" />
     <Element Category="Services" Name="Windows Event Collector Service" Selected="false" Value="" />
-    <Element Category="Services" Name="Windows Font Cache Service" Selected="true" Value="3" />
+    <Element Category="Services" Name="Windows Font Cache Service" Selected="false" Value="" />
     <Element Category="Services" Name="Windows Indexing Service" Selected="false" Value="" />
-    <Element Category="Services" Name="Windows Insider Program Service" Selected="true" Value="5" />
-    <Element Category="Services" Name="Windows Media Player Network Sharing Service" Selected="true" Value="5" />
-    <Element Category="Services" Name="Windows Mobile Hotspot Service" Selected="true" Value="3" />
-    <Element Category="Services" Name="Windows Perception Service" Selected="true" Value="3" />
-    <Element Category="Services" Name="Windows Push Notifications User Service" Selected="true" Value="3" />
-    <Element Category="Services" Name="Windows SMS Router Service" Selected="true" Value="3" />
+    <Element Category="Services" Name="Windows Insider Program Service" Selected="false" Value="" />
+    <Element Category="Services" Name="Windows Media Player Network Sharing Service" Selected="false" Value="" />
+    <Element Category="Services" Name="Windows Mobile Hotspot Service" Selected="false" Value="" />
+    <Element Category="Services" Name="Windows Perception Service" Selected="false" Value="" />
+    <Element Category="Services" Name="Windows Push Notifications User Service" Selected="false" Value="" />
+    <Element Category="Services" Name="Windows SMS Router Service" Selected="false" Value="" />
     <Element Category="Services" Name="Windows Store Service" Selected="false" Value="" />
     <Element Category="Services" Name="Windows Store (Install) Service" Selected="false" Value="" />
     <Element Category="Services" Name="Windows Store (PushToInstall) Service" Selected="false" Value="" />
-    <Element Category="Services" Name="Windows Time Service" Selected="true" Value="3" />
+    <Element Category="Services" Name="Windows Time Service" Selected="false" Value="" />
     <Element Category="Services" Name="Windows Update Service" Selected="false" Value="" />
     <Element Category="Services" Name="Windows Update Medic Service" Selected="true" Value="5" />
     <Element Category="Services" Name="WinHTTP Web Proxy Auto-Discovery Service" Selected="false" Value="" />
@@ -1608,8 +1608,8 @@
     <Element Category="Services" Name="Workstation Service" Selected="false" Value="" />
     <Element Category="Services" Name="WLAN AutoConfig Service" Selected="false" Value="" />
     <Element Category="Services" Name="Work Folders Service" Selected="false" Value="" />
-    <Element Category="Services" Name="WWAN AutoConfig Service" Selected="true" Value="3" />
-    <Element Category="Services" Name="WWAN (Local Profile Assistant) Service" Selected="true" Value="3" />
+    <Element Category="Services" Name="WWAN AutoConfig Service" Selected="false" Value="" />
+    <Element Category="Services" Name="WWAN (Local Profile Assistant) Service" Selected="false" Value="" />
     <Element Category="Services" Name="Xbox Accessory Management Service" Selected="false" Value="" />
     <Element Category="Services" Name="Xbox Game Monitoring Service" Selected="false" Value="" />
     <Element Category="Services" Name="Xbox Live Auth Manager Service" Selected="false" Value="" />
