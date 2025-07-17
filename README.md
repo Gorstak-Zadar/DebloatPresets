@@ -1,5 +1,6 @@
 Run iso first through official ntlite (free), then through old 1.5 version, then through winreducer
 
+Note winreducer is currently bugged and your webcam will report already in use and you wont be able to use your webcam.
 
 So, I'm gonna show you how to create custom windows iso, my way, using my presets.
 You will require windows iso first, and there are several choices.
